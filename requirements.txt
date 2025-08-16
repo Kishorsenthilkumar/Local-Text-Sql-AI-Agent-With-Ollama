@@ -1,0 +1,11 @@
+langflow
+chromadb
+ollama
+fastapi
+uvicorn
+streamlit
+pandas
+sqlalchemy
+requests
+# Add your database-specific connector here
+# e.g., mysql-connector-python
